@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "Bneli",
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "editor.minimap.enabled": false,
+    "terminal.integrated.allowChords": false
+}
